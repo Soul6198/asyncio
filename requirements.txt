@@ -1,0 +1,4 @@
+﻿requests
+aiohttp
+sqlalchemy==1.4.46
+asyncpg
